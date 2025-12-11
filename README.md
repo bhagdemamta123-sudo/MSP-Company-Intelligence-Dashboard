@@ -56,7 +56,7 @@ This dashboard is developed as a portfolio sample to demonstrate my skills in:
 
 - [Dashboard (.pbix)](https://github.com/bhagdemamta123-sudo/MSP-Company-Intelligence-Dashboard/blob/main/MSP%20Company%20intelligence%20Dashboard_Snapshot.png) MSP_Company_Intelligence_Dashboard_Snapshot.png — Screenshot
 
-- README.md — Project documentation
+- [Dashboard (.pbix)](https://github.com/bhagdemamta123-sudo/MSP-Company-Intelligence-Dashboard/blob/main/README.md) README.md — Project documentation
 
 🎯 Why This Project Matters
 
