@@ -20,7 +20,7 @@ This dashboard is developed as a portfolio sample to demonstrate my skills in:
 
 ✔️ Insights Covered
 
-The dashboard provides analysis on:
+  The dashboard provides analysis on:
 
 - Total MSP companies collected
 
@@ -52,7 +52,7 @@ The dashboard provides analysis on:
 
 📁 Files Included in This Repository
 
-- MSP_Company_Intelligence_Dashboard.pbix — Complete dashboard
+- [Dashboard (.pbix)](MSP_Company_Intelligence_Dashboard.pbix) — Complete dashboard
 
 - MSP_Company_Intelligence_Dashboard_Snapshot.png — Screenshot
 
@@ -80,3 +80,6 @@ The dashboard provides analysis on:
 - Build location-wise drill-down reports
 
 - Create automated data refresh pipelines
+
+📸 Dashboard Overview
+   ![Dashboard](https://github.com/bhagdemamta123-sudo/MSP-Company-Intelligence-Dashboard/blob/main/MSP%20Company%20intelligence%20Dashboard_Snapshot.png)
