@@ -52,9 +52,9 @@ This dashboard is developed as a portfolio sample to demonstrate my skills in:
 
 📁 Files Included in This Repository
 
-- [Dashboard (.pbix)](MSP_Company_Intelligence_Dashboard.pbix) — Complete dashboard
+- [Dashboard (.pbix)](https://github.com/bhagdemamta123-sudo/MSP-Company-Intelligence-Dashboard/blob/main/MSP%20Company%20Intelligence%20Dashboard1.pbix) — Complete dashboard
 
-- MSP_Company_Intelligence_Dashboard_Snapshot.png — Screenshot
+- [Dashboard (.pbix)](MSP_Company_Intelligence_Dashboard_Snapshot.png — Screenshot
 
 - README.md — Project documentation
 
